@@ -5,3 +5,4 @@ To setup environment, please, run [setup script](setup.sh). To run it, use VS Co
 
 Tutorial progress:
 - finished [1st part](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
+- finished [2nd part](https://docs.djangoproject.com/en/2.1/intro/tutorial02/); superuser credentials are *admin:admin*.
