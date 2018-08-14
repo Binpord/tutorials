@@ -7,3 +7,4 @@ Tutorial progress:
 - finished [1st part](https://docs.djangoproject.com/en/2.1/intro/tutorial01/)
 - finished [2nd part](https://docs.djangoproject.com/en/2.1/intro/tutorial02/); superuser credentials are *admin:admin*.
 - finished [3rd part](https://docs.djangoproject.com/en/2.1/intro/tutorial03/)
+- finished [4th part](https://docs.djangoproject.com/en/2.1/intro/tutorial04/)
