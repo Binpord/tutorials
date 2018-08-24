@@ -9,3 +9,4 @@ Tutorial progress:
 - finished [3rd part](https://docs.djangoproject.com/en/2.1/intro/tutorial03/)
 - finished [4th part](https://docs.djangoproject.com/en/2.1/intro/tutorial04/)
 - finished [5th part](https://docs.djangoproject.com/en/2.1/intro/tutorial05/)
+- finished [6th part](https://docs.djangoproject.com/en/2.1/intro/tutorial06/)
